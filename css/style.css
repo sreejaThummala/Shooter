@@ -1,0 +1,40 @@
+body {
+    background: #111 url('../res/robots.png') repeat;
+    color: #ddd;
+    font-family: Helvetica, Arial;
+    min-width: 450px;
+    width: 800px;
+    margin: 0px auto;
+}
+
+
+a, a:visited, a:active {
+    color: #29c9e2;
+}
+
+h1 {
+    text-align: center;
+    font-family: acme, Arial;
+}
+
+#instructions {
+    width: 800px;
+    padding-top: 30px;
+}
+
+#instructions span {
+    display: inline-block;
+    text-align: center;
+    width: 260px;
+    padding: 2px;
+}
+
+#footer {
+    padding-top: 50px;
+    font-size: 80%;
+    text-align: center;
+}
+
+#footer p {
+    line-height: 1.2em;
+}
